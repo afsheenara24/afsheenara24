@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student passionate about Machine Learning, Data Analysis, and problem solving. I enjoy building projects using tools like Python, PySpark, and modern ML frameworks, and I’m currently exploring advanced topics such as ensemble learning and feature engineering.<br><br>I have hands-on experience through my data analysis internship, where I worked on real-world tasks including big data processing, model building, dashboards, and NLP-based sentiment analysis. I’m always eager to learn, collaborate, and apply my skills to solve practical problems.
+I’m a Computer Science student passionate about Artificial Intelligence, Machine Learning, Data Analysis, and problem solving. I enjoy building projects using tools like Python, PySpark, and modern ML frameworks, and I’m currently exploring advanced topics such as ensemble learning and feature engineering.<br><br>I have hands-on experience through my data analysis internship, where I worked on real-world tasks including big data processing, model building, dashboards, and NLP-based sentiment analysis. I’m always eager to learn, collaborate, and apply my skills to solve practical problems.
 
 
 ## 🌐 Socials:

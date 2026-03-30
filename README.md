@@ -11,7 +11,7 @@ I’m a Computer Science student passionate about Machine Learning, Data Analysi
 ![](https://github-readme-stats.vercel.app/api?username=afsheenara24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=afsheenara24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afsheenara24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afsheenara24&theme=react-dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

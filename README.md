@@ -11,11 +11,18 @@ I’m a Computer Science student passionate about Machine Learning, Data Analysi
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=afsheenara24&show_icons=true&theme=radical)
 
+## Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
 ## 🔥 Streak
 ![Streak](https://streak-stats.demolab.com/?user=afsheenara24&theme=radical)
 
 ## 💻 Top Languages
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsheenara24&layout=compact&theme=radical)
+
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afsheenara24&show_icons=true&theme=radical)
+
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=afsheenara24&layout=compact&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
